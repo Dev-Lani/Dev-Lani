@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Lani👋</h1>
+<h1 align="center">💻 root@dev-lani:~# echo "Hello, World! 👋"</h1>
 <h3 align="center">Crafting the Web, One Pixel at a Time 🚀</h3>
 
 ---
