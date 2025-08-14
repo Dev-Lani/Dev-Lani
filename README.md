@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Lance</h1>
+<h1 align="center">Hi there, I'm Lani👋</h1>
 <h3 align="center">Crafting the Web, One Pixel at a Time 🚀</h3>
 
 ---
@@ -33,17 +33,9 @@
 
 ---
 
-### 🌟 Featured Projects
-- 🔗 [My Portfolio Website](https://your-portfolio-link.com) — A showcase of my work and skills  
-- 🛒 [E-Commerce Web App](https://github.com/YOUR_USERNAME/ecommerce-app) — Fully functional online store  
-- 📄 [Landing Page Templates](https://github.com/YOUR_USERNAME/landing-page-templates) — Reusable designs for businesses  
-
----
-
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/lance.edwin.754)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/prettyboi_lani)  
 
 ---
 
