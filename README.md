@@ -39,6 +39,7 @@
 ### 📫 Let's Connect
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/lance.edwin.754)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/prettyboi_lani)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lanceedwinmarquezmaligaya@gmail.com)
 
 ---
 
